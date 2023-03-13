@@ -1,0 +1,4 @@
+inputs=pd.concat([inputs,dummies],axis='columns')
+thats how we concat two cols
+
+
